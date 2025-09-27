@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "Kaijuu 8-gou Season 2 ดูได้หลายเลข 8 ภาค 2 (ซับไทย)",
+      "logo": "https://www.anime108.com/wp-content/uploads/2025/07/kaijuu-8-gou-2nd-Season-374x527.jpg",
+      "items": [
+        {
+          "name": "EP 0",
+          "url": "https://main.108player.com/newplaylist/9bc91ab65438676b4c111cd7/9bc91ab65438676b4c111cd7.m3u8"
+        },
+        {
+          "name": "EP 1",
+          "url": "https://main.108player.com/newplaylist/422c7fa5752cf3d16d0ef3de/422c7fa5752cf3d16d0ef3de.m3u8"
+        },
+        {
+          "name": "EP 2",
+          "url": "https://main.108player.com/newplaylist/5fb0a6f3aa8fa3da43eb20c0/5fb0a6f3aa8fa3da43eb20c0.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "ชินจัง เดอะมูฟวี่ 32 ไดอารี่เพื่อนรัก ได้ในบอร์ดพวกเรา (พากย์ไทย ซับไทย)",
+      "logo": "https://www.anime108.com/wp-content/uploads/2025/09/Crayon-Shin-Chan-The-Movie-32-359x538.jpg",
+      "items": [
+        {
+          "name": "EP 1",
+          "url": "https://main.108player.com/newplaylist/e1eb438893c46afde71250c3/e1eb438893c46afde71250c3.m3u8"
+        }
+      ]
+    }
+  ]
+}
