@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20251006&channel_id=3994"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20251006&channel_id=3994,1425,"
 
 #EXTINF:-1  tvg-id="HBO" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
