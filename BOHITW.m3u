@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20251006&channel_id=3994"
+
+#EXTINF:-1 tvg-id="HBO Hit" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png", HBO HiTS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key={"keyId": "7c04b8e7aa524afea879b2ed1aef8242", "key": "91e72b75fcb94c3bb36cceb741afd621"}
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
