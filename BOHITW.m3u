@@ -1,27 +1,26 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9CYW5na29r&date=20251006&channel_id=1425,4008,3994,369707,412112"
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20251006&channel_id=369758,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=3200,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=3994,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=1425,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=4008"
 
-
-#EXTINF:-1 tvg-id="1425" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png", HBO
+#EXTINF:-1 tvg-id="1425" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
-#EXTINF:-1 tvg-id="412112" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png", HBO Signature
+#EXTINF:-1 tvg-id="369758" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0149.png",HBO Signature (HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0db89bae851440a5994f5893ad480494:d88ef77eaedf4451a65be2e0bf6eabde
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd
 
-#EXTINF:-1 tvg-id="3994" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png", HBO Hits
+#EXTINF:-1 tvg-id="3994" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0151.png",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c04b8e7aa524afea879b2ed1aef8242:91e72b75fcb94c3bb36cceb741afd621
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd
 
-#EXTINF:-1 tvg-id="4008" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png", HBO Family
+#EXTINF:-1 tvg-id="4008" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07b138f30ad3441ca5a2f476e550af25:826ee4deef4b45cfafd5f79a591b15c6
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd
 
-#EXTINF:-1 tvg-id="369707" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0147.png", CINEMAX
+#EXTINF:-1 tvg-id="3200" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0147.png",CINEMAX HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f48caba466394e93b50780f21798787a:9a074a10db4342e7937076b3e52f6029
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd
