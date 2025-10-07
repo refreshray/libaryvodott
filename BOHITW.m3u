@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en&date=20251006&channel_id=369758,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=3200,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=3994,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=1425,https://epg.pw/api/epg.xml?lang=en&date=20251007&channel_id=4008"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="1425" group-title="ช่องบันเทิง" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
