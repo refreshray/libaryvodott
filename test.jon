@@ -1,32 +1,628 @@
-{
-  "groups": [
+[
     {
-      "name": "Kaijuu 8-gou Season 2 ดูได้หลายเลข 8 ภาค 2 (ซับไทย)",
-      "logo": "https://www.anime108.com/wp-content/uploads/2025/07/kaijuu-8-gou-2nd-Season-374x527.jpg",
-      "items": [
-        {
-          "name": "EP 0",
-          "url": "https://main.108player.com/newplaylist/9bc91ab65438676b4c111cd7/9bc91ab65438676b4c111cd7.m3u8"
-        },
-        {
-          "name": "EP 1",
-          "url": "https://main.108player.com/newplaylist/422c7fa5752cf3d16d0ef3de/422c7fa5752cf3d16d0ef3de.m3u8"
-        },
-        {
-          "name": "EP 2",
-          "url": "https://main.108player.com/newplaylist/5fb0a6f3aa8fa3da43eb20c0/5fb0a6f3aa8fa3da43eb20c0.m3u8"
-        }
-      ]
+        "name": "Channel 5",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
     },
     {
-      "name": "ชินจัง เดอะมูฟวี่ 32 ไดอารี่เพื่อนรัก ได้ในบอร์ดพวกเรา (พากย์ไทย ซับไทย)",
-      "logo": "https://www.anime108.com/wp-content/uploads/2025/09/Crayon-Shin-Chan-The-Movie-32-359x538.jpg",
-      "items": [
-        {
-          "name": "EP 1",
-          "url": "https://main.108player.com/newplaylist/e1eb438893c46afde71250c3/e1eb438893c46afde71250c3.m3u8"
-        }
-      ]
+        "name": "Channel 1",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/2/2.mpd",
+        "keyId": "ca20a93cf8e3421dafbd5bdb1990081b",
+        "key": "86ae86a7391c481ea93eecdb740f0a14",
+        "drm": true
+    },
+    {
+        "name": "Channel 14",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/3/3.mpd",
+        "keyId": "4d4426a505f64382a9841155d721cee6",
+        "key": "0f4770219ccb4be5836a7517057e51c3",
+        "drm": true
+    },
+    {
+        "name": "ALTV",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ALTV.PNG",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/4/4.mpd",
+        "keyId": "1e98456bcbea44b7ad05831387e364ef",
+        "key": "3d14fd4f9d3149a79b35a7124fccbd67",
+        "drm": true
+    },
+    {
+        "name": "T-Sports 7",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd",
+        "keyId": "6187523f92b9475bb5b192f70cef1342",
+        "key": "5119311f482144d58dacabc5bc1fa4ba",
+        "drm": true
+    },
+    {
+        "name": "Channel 48",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0048.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/10/10.mpd",
+        "keyId": "5da46688fd1e4ed5b085a12519b9dc4e",
+        "key": "fd07bcf33823447180f53f6540f74ccb",
+        "drm": true
+    },
+    {
+        "name": "Channel 53",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd",
+        "keyId": "9ebedc957e934d2b9023e4e60b97af73",
+        "key": "7bcb4363df74457bbafedec1a864e6b6",
+        "drm": true
+    },
+    {
+        "name": "JKN 18",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/18/18.mpd",
+        "keyId": "333de6034a1d45fe91c829539caf1149",
+        "key": "2710efc048ca44bba4c2b57397989a26",
+        "drm": true
+    },
+    {
+        "name": "Channel 21",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 15",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 54",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 19",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 6",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 16",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "MCOT HD",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 12",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd",
+        "keyId": "87db4361f7894655a4656e9c8b935a02",
+        "key": "b025a4b950df41158a87cfc8d6f2ac34",
+        "drm": true
+    },
+    {
+        "name": "Channel 13",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
+        "keyId": "9d76aea451d441a4913d4d70c4e586ab",
+        "key": "051027a6ff54494b949ba792928e9008",
+        "drm": true
+    },
+    {
+        "name": "Channel 3 HD",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd",
+        "keyId": "9d76aea451d441a4913d4d70c4e586ab",
+        "key": "051027a6ff54494b949ba792928e9008",
+        "drm": true
+    },
+    {
+        "name": "Channel 18",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/35/35.mpd",
+        "keyId": "4d4426a505f64382a9841155d721cee6",
+        "key": "0f4770219ccb4be5836a7517057e51c3",
+        "drm": true
+    },
+    {
+        "name": "Amarin TV HD",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd",
+        "keyId": "4d4426a505f64382a9841155d721cee6",
+        "key": "0f4770219ccb4be5836a7517057e51c3",
+        "drm": true
+    },
+    {
+        "name": "PPTV HD",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg",
+        "file": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd",
+        "keyId": "4d4426a505f64382a9841155d721cee6",
+        "key": "0f4770219ccb4be5836a7517057e51c3",
+        "drm": true
+    },
+    {
+        "name": "Warner TV HD",
+        "logo": "https://i.imgur.com/vGEL2Ne.png",
+        "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd",
+        "keyId": "4503cf86bca3494ab95a77ed913619a0",
+        "key": "afc9c8f627fb3fb255dee8e3b0fe1d71",
+        "drm": true
+    },
+    {
+        "name": "Rock Action",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+        "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd",
+        "keyId": "0f852fb8412b11edb8780242ac120002",
+        "key": "4cbc004d8c444f9f996db42059ce8178",
+        "drm": true
+    },
+    {
+        "name": "Rock Entertainment",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",
+        "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd",
+        "keyId": "e4ee0cf8ca9746f99af402ca6eed8dc7",
+        "key": "be2a096403346bc1d0bb0f812822bb62",
+        "drm": true
+    },
+    {
+        "name": "3BB Asian",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/101/101.mpd",
+        "keyId": "dac6cbd9d17a451bb76386f52469e0e9",
+        "key": "2e2ac52cadf843459915eaa1a9b95e48",
+        "drm": true
+    },
+    {
+        "name": "Mono 29 Plus",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd",
+        "keyId": "072eeb02f6744f838fcc8f0ef36b312e",
+        "key": "b797c12f2dd64728aae23fd3c8ef275c",
+        "drm": true
+    },
+    {
+        "name": "Channel 148",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd",
+        "keyId": "9c5735afb4fd402580360aed8364469c",
+        "key": "128d55d9ac2b47ad85f86b5d08320179",
+        "drm": true
+    },
+    {
+        "name": "Channel 149",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/104/104.mpd",
+        "keyId": "0db89bae851440a5994f5893ad480494",
+        "key": "d88ef77eaedf4451a65be2e0bf6eabde",
+        "drm": true
+    },
+    {
+        "name": "Channel 151",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/105/105.mpd",
+        "keyId": "7c04b8e7aa524afea879b2ed1aef8242",
+        "key": "91e72b75fcb94c3bb36cceb741afd621",
+        "drm": true
+    },
+    {
+        "name": "Channel 150",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/106/106.mpd",
+        "keyId": "07b138f30ad3441ca5a2f476e550af25",
+        "key": "826ee4deef4b45cfafd5f79a591b15c6",
+        "drm": true
+    },
+    {
+        "name": "Channel 147",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/107/107.mpd",
+        "keyId": "f48caba466394e93b50780f21798787a",
+        "key": "9a074a10db4342e7937076b3e52f6029",
+        "drm": true
+    },
+    {
+        "name": "WWE Network",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/WWENetworkLogo.png",
+        "file": "https://smart.bengaldigital.live/WWE/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 1",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport01.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports1_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 2",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport02.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports2_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 3",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport03.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports3_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 4",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport04.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports4_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 5",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport05.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports5_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 6",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport06.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports6_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 7",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport07.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports7_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 8",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport08.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports8_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Monomax Sport 9",
+        "logo": "https://www.img03.xyz/assets/img/ch_logo/Monomax_Sport09.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/aismonomaxsports9_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "EPL 4",
+        "logo": "https://www.img01.xyz/assets/img/ch_logo/doomovie-epl4.png",
+        "file": "https://verb169.com/stream/4/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 1",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport1.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports1_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 2",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport2.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports2_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 3",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport3.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports3_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 4",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport4.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports4_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 5",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport5.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports5_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 6",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport6.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports6_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 7",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport7.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports7_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 8",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport8.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports8_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 9",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport9.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports9_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "AIS Play Sports 10",
+        "logo": "https://www.img07.xyz/assets/img/ch_logo/AISplay-sport10.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/playsports10_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "W Sport",
+        "logo": "https://www.fileinw.com/postor/20250830191812Wsport.jpg",
+        "file": "https://live1.inwstream.com/transcoder_F1/hitsmovies_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "J Sports 1",
+        "logo": "https://www.jsports.co.jp/img/icon/ch1.png",
+        "file": "https://mt01.utako.moe/js1/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "J Sports 2",
+        "logo": "https://www.jsports.co.jp/img/icon/ch2.png",
+        "file": "https://mt01.utako.moe/js2/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "J Sports 3",
+        "logo": "https://www.jsports.co.jp/img/icon/ch3.png",
+        "file": "https://mt01.utako.moe/js3/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "J Sports 4",
+        "logo": "https://www.jsports.co.jp/img/icon/ch4.png",
+        "file": "https://mt01.utako.moe/js4/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "True Sports 8",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+        "file": "https://verb169.com/stream/8/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "True Premier Football 4",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+        "file": "https://verb169.com/stream/9/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "True Premier Football 5",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",
+        "file": "https://verb169.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "True Tennis",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",
+        "file": "https://verb169.com/stream/11/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "True Golf",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",
+        "file": "https://verb169.com/stream/12/index.m3u8?token=mvFWafOIir5JDlQN",
+        "drm": false
+    },
+    {
+        "name": "SPOTV HD",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+        "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
+        "keyId": "ec7ee27d83764e4b845c48cca31c8eef",
+        "key": "9c0e4191203fccb0fde34ee29999129e",
+        "drm": true
+    },
+    {
+        "name": "SPOTV 2 HD",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",
+        "file": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+        "keyId": "7eea72d6075245a99ee3255603d58853",
+        "key": "6848ef60575579bf4d415db1032153ed",
+        "drm": true
+    },
+    {
+        "name": "Cartoon Network",
+        "logo": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd",
+        "keyId": "f140b94c73ab4ef5b96da7f49afb1154",
+        "key": "85e4ef232c6e460f888eb20f651d66e3",
+        "drm": true
+    },
+    {
+        "name": "Cartoonito",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Cartoonito.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/302/302.mpd",
+        "keyId": "ad2371259d34404cb89d54a4dc88dcd3",
+        "key": "1ba155e345c4456ba891cbee9b3e1c4c",
+        "drm": true
+    },
+    {
+        "name": "Nickelodeon",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd",
+        "keyId": "9130a6448a74430794d355b48b56a64c",
+        "key": "c2f4d3288cdb43cf81e519ceb414dd6f",
+        "drm": true
+    },
+    {
+        "name": "Nick Jr.",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png",
+        "file": "https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/304/304.mpd",
+        "keyId": "641c3f0e676d49d18c2082e093380e69",
+        "key": "e06f3a2e327643249c3831ab199c4015",
+        "drm": true
+    },
+    {
+        "name": "Animax",
+        "logo": "https://i.ibb.co/vJdY0NG/animax.png",
+        "file": "https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd",
+        "keyId": "edf1a715de9748638dd2fad75a419af2",
+        "key": "2f5a3199b26e9b693ae881af7ff864cf",
+        "drm": true
+    },
+    {
+        "name": "Mr. Bean",
+        "logo": "https://i.postimg.cc/yWqNWZf5/Mr-Bean.png",
+        "file": "https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "PBS Kids",
+        "logo": "https://i.postimg.cc/HkkPhhWS/pbskids.png",
+        "file": "https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Boom Anime",
+        "logo": "https://img2.pic.in.th/pic/IMG_20241019_193424.jpg",
+        "file": "https://edge2a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Boomerang TH",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/BoomThailand2025.png/250px-BoomThailand2025.png",
+        "file": "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
+        "drm": false
+    },
+    {
+        "name": "ZooMooN",
+        "logo": "https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",
+        "file": "https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Moonbug Kids",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Moonbug2ndLogo.png",
+        "file": "http://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u88",
+        "drm": false
+    },
+    {
+        "name": "The Pet Collective",
+        "logo": "https://i.imgur.com/w7RdSIk.png",
+        "file": "https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Lifetime",
+        "logo": "https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png",
+        "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd",
+        "keyId": "cf861d26e7834166807c324d57df5119",
+        "key": "64a81e30f6e5b7547e3516bbf8c647d0",
+        "drm": true
+    },
+    {
+        "name": "Discovery Channel",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png",
+        "file": "https://live1.inwstream.com/transcoder_F1/discovery_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Discovery Asia",
+        "logo": "https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/discoveryasia_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "History HD",
+        "logo": "https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png",
+        "file": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd",
+        "keyId": "a7724b7ca2604c33bb2e963a0319968a",
+        "key": "6f97e3e2eb2bade626e0281ec01d3675",
+        "drm": true
+    },
+    {
+        "name": "Love Nature",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",
+        "file": "https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8",
+        "drm": false
+    },
+    {
+        "name": "W2F TV",
+        "logo": "https://i.ibb.co/kscXG7sY/W2-FTVCircle-R2.png",
+        "file": "https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "National Geographic",
+        "logo": "https://static.uflixtv.com/images/tv/channels_icons/uk-natgeo.png",
+        "file": "https://live.dinesh29.com.np/stream/jiotvplus/nationalgeographic/master.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Nat Geo Wild HD",
+        "logo": "https://static.uflixtv.com/images/tv/channels_icons/uk-natgeowild.png",
+        "file": "https://live.dinesh29.com.np/stream/jiotvplus/natgeowildhd/master.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Outdoor Channel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Outdoor_Channel_logo_2007-2017.svg/1200px-Outdoor_Channel_logo_2007-2017.svg.png",
+        "file": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+        "drm": false
+    },
+    {
+        "name": "True X-Zyte",
+        "logo": "https://www.fileinw.com/postor/20240418202134True%20X-Zyte.jpg",
+        "file": "https://live2.inwstream.com/transcoder_F1/truexzyte_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Animal Show",
+        "logo": "https://static.uflixtv.cc/images/tv/png/th-ais-animalshow.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Samruj Lok",
+        "logo": "https://static.uflixtv.cc/images/tv/png/th-ais-samrujlok.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/animalshow_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Thainess",
+        "logo": "https://static.uflixtv.cc/images/tv/png/th-ais-thainess.png",
+        "file": "https://live3.inwstream.com/transcoder_F1/thainess_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "Khong Dee Thailand",
+        "logo": "https://www.fileinw.com/postor/20240418211325KhongDeeThailand.jpg",
+        "file": "https://live5.inwstream.com/transcoder_F1/khongdeethailand_inwiptv.stream/chunks.m3u8",
+        "drm": false
+    },
+    {
+        "name": "My Sci",
+        "logo": "https://www.fileinw.com/postor/20240418211511MySci.jpg",
+        "file": "https://live3.inwstream.com/transcoder_F1/mysci_inwiptv.stream/chunks.m3u8",
+        "drm": false
     }
-  ]
-}
+]
