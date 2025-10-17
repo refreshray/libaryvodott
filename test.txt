@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="" refresh="3600"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="2" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -208,32 +208,32 @@ https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/mas
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/rockentertainment.m3u8
 
-#EXTINF:-1 tvg-id="110" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",rock_action
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",rock_action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/185-rock_action.m3u8
 
-#EXTINF:-1 tvg-id="301" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/refreshray/real/refs/heads/main/afn.m3u8
 
-#EXTINF:-1 tvg-id="301" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/udzaa2238/m3u8-system/refs/heads/main/185-TLC.m3u8
 
-#EXTINF:-1 tvg-id="301" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",MySCI
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png",MySCI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/refreshray/real/refs/heads/main/MYSCI.m3u8
 
-#EXTINF:-1 tvg-id="301" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",Thainess
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png",Thainess
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/trueexplorelife.m3u8
 
-#EXTINF:-1 tvg-id="301" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",ของดีประเทศไทย
+#EXTINF:-1 tvg-id="" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png",ของดีประเทศไทย
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truexzyte.m3u8
