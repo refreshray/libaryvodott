@@ -1,4 +1,9 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?lang=en"
+
+#EXTINF:-1 tvg-id="412088" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c5735afb4fd402580360aed8364469c:128d55d9ac2b47ad85f86b5d08320179
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/103/103.mpd
 
 #EXTINF:-1 tvg-id="2" group-title="AISPLAY" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -267,4 +272,8 @@ https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/mas
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://raw.githubusercontent.com/bestcommt2/bestcommt2.github.io/refs/heads/master/m3u8/truespotv2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="",
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
 
